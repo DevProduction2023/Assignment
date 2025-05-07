@@ -5,9 +5,9 @@
 
 # there is no .env file so create a env file and paste it 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-# MONGO_URL = "mongodb://localhost:27017/Assisment"
-JWT_SECRET = "test@key"
+
 # live
+JWT_SECRET = "test@key"
 MONGO_URL = "mongodb+srv://gsadmin:PassGs%40123@cluster2025.kyd9ihk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster2025"
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
